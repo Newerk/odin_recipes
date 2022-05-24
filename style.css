@@ -1,0 +1,72 @@
+h1 {
+    color: #D96933;
+    text-align: center;
+    font-family:fantasy;
+}
+
+li {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+  
+.button{
+    background-color: #D96933;
+    font-size: larger;
+    border-style: solid;
+    border-color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+ #outside-tables {
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+ }
+
+.homepage-hyperlink {
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+ /* centering all the pictures of food on their respective page and add a border*/
+ #bec, #pita, #banana{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    height: 500px;
+
+    border-left: #D96933;
+    border-right: #D96933;
+    border-style: solid;
+    border-top: 0px;
+    border-bottom: 0px;
+ }
+
+ .description, .ingredients, .steps{
+    color: #D96933;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+
+ .navi-bar {
+     display: block;
+     margin-left: auto;
+     margin-block-end: auto;
+     background-color: rgb(0, 0, 0, 0.3);
+     overflow: hidden;
+     padding: 6px;
+ }
+
+.pad {
+    padding: 10px 10px;
+    background-color:bisque;
+    border: #D96933;
+    border-style: solid;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+
